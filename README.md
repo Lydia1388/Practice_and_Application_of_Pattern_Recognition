@@ -3,7 +3,7 @@
 - Input : 1*1024
 - Output : 1*20  
 
-## (2) Iris 
+## (2) Iris Backpropagation
 - data : 75 train / 75 test 
 - 12 hidden layer
 - 1 ouput layer 
